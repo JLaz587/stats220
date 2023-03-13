@@ -1,5 +1,5 @@
 # stats220
-This is my Stats220 repository.
+This is my **Stats220** repository.
 
 ## Contents of My Repository
 1. My index.html file including:
