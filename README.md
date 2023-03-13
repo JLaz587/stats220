@@ -13,3 +13,4 @@ This is my **STATS220** repository.
 You can find my Project using this [link!](https://jlaz587.github.io/stats220/)
 
 *By Jordan Lazarus*
+E
