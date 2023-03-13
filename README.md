@@ -10,6 +10,7 @@ This is my **STATS220** repository.
    * The requirements I met for this project
    * A self reflection one what I learned during this project
 
-You can find my Project [https://jlaz587.github.io/stats220/][here].
+You can find my Project [here].
+[here]: https://jlaz587.github.io/stats220/
 
 *By Jordan Lazarus*
